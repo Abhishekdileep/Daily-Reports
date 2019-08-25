@@ -1,0 +1,7 @@
+Daily Report  
+25-8-19 
+objective : Understand Spacy and NLU/NLP using RASA Core 
+Task Source : BOOK(Building chat Bots With Python)
+1) Understood how RAsa Nlu works in Genral and Decision Tables in Rasa NLU
+2) Installation of Basic RASA-nlu core into the Envirnoment(Debugging Error)
+3) Spacy Concepts and Genral ideas of working 
